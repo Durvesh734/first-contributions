@@ -1,4 +1,6 @@
 # Contributors
+- [Durvesh Marathe] (https://github.com/Durvesh734)
+- [Santosh Bongu] (https://github.com/Bongu7684)
 - [Rafael Severo](https://github.com/rafaeumesmo) 
 - [TJ Lucht](https://github.com/GoldenEntertainment) - I Like Watching Youtube Videos, I also Like making Games And apps
 - [Amit Mavinakatti] (https://github.com/Amit-Mavinakatti)
